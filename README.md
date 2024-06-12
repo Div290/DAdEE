@@ -1,5 +1,5 @@
-# UDAEE: Unsupervised Domain Adaptation in PLMs with Early Exits
-This repository is the official implementation of the work UDAEE: Unsupervised Domain Adaptation in PLMs with Early Exits
+# DAdEE: Unsupervised Domain Adaptation in Early Exit PLMs
+This repository is the official implementation of the work DAdEE: Unsupervised Domain Adaptation in Early Exit PLMs
 
 ## Requirements
 
